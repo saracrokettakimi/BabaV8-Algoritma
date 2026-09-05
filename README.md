@@ -39,8 +39,6 @@ Kod; sensörlerin okunması, uçuş durumunun belirlenmesi, telemetri paketinin 
 4. Kodu derleyip BabaV8 kartına yükleyin.
 5. Seri monitörü 115200 baud ile açın.
 
-`SD_DIAG` klasöründeki kod, microSD bağlantısını uçuş yazılımından bağımsız kontrol etmek için kullanılır.
-
 ## Uyarı
 
 Kurtarma çıkışları enerjili donanım bağlanmadan önce masaüstü test düzeneğinde doğrulanmalıdır. Uçuş parametreleri araç yapısına ve saha koşullarına göre kontrol edilmeden kullanılmamalıdır.
