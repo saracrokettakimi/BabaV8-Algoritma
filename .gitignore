@@ -1,0 +1,22 @@
+# Arduino derleme çıktıları
+build/
+*.hex
+*.elf
+*.eep
+*.map
+
+# Editör ve işletim sistemi dosyaları
+.vscode/
+.idea/
+.vs/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
+
+# Yerel çalışma yedekleri
+*.backup-*
+*.bak
+*.tmp
+*~
+
