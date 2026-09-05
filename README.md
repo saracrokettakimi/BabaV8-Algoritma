@@ -1,3 +1,5 @@
+![Saraç Roket Takımı](assets/sarac-roket-takimi.png)
+
 # BabaV8 Uçuş Bilgisayarı
 
 Saraç Roket Takımı tarafından ATmega2560-16AU tabanlı BabaV8 Pro Max kartı için geliştirilen uçuş yazılımıdır.
