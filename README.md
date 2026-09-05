@@ -30,7 +30,7 @@ Kod; sensörlerin okunması, uçuş durumunun belirlenmesi, telemetri paketinin 
 - Adafruit MPL3115A2 Library
 - Adafruit BNO055
 - Adafruit Unified Sensor
-- SdFat
+- SdFat / Sd
 - TinyGPSPlus
 
 ## Kullanım
